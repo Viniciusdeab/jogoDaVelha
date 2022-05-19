@@ -143,3 +143,7 @@ body {
     font-size: 5rem;
     color: white;
 }
+
+.show-winnig-messege{
+    display: flex;
+}
